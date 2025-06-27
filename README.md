@@ -56,12 +56,6 @@ See the [GNU General Public License](https://github.com/gokadzev/Musify/blob/mas
 
 ---
 
-## Contribute
-
-Contributions are always welcome. Please read our [contributing guidelines](https://github.com/gokadzev/Musify/blob/master/CONTRIBUTING.md) before contributing.
-
----
-
 ## Credits
 
 [Musify](https://github.com/Harsh-23/Musify) - Original inspiration for the concept and app name, while our implementation took a different direction with a complete rewrite, a rebranded logo, and a redesigned layout and UI.
