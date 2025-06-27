@@ -7,9 +7,10 @@ Unlock the full potential of music: Stream effortlessly with one app!
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/screenshot1.png" alt="Screenshot 1" width="250"/>
-  <img src="screenshots/screenshot2.png" alt="Screenshot 2" width="250"/>
-  <img src="screenshots/screenshot3.png" alt="Screenshot 3" width="250"/>
+  <img src="screenshots/Screenshot 2025-06-27 150824.png" alt="Screenshot 1" width="250"/>
+  <img src="screenshots/Screenshot 2025-06-27 151159.png" alt="Screenshot 2" width="250"/>
+  <img src="screenshots/Screenshot 2025-06-27 151404.png" alt="Screenshot 3" width="250"/>
+  <img src="screenshots/Screenshot 2025-06-27 151421.png" alt="Screenshot 4" width="250"/>
 </p>
 
 ---
