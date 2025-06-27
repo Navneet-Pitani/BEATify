@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "73339936215",
+    "project_id": "tuneup-79b05",
+    "storage_bucket": "tuneup-79b05.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73339936215:android:e50f4a2c0237d72bb13f92",
+        "android_client_info": {
+          "package_name": "com.gokadzev.musify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8phs-6hZbIy5KZgyrtWqBNp0t32qCKcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
