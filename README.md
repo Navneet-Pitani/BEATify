@@ -11,6 +11,8 @@ Unlock the full potential of music: Stream effortlessly with one app!
   <img src="screenshots/Screenshot 2025-06-27 151159.png" alt="Screenshot 2" width="250"/>
   <img src="screenshots/Screenshot 2025-06-27 151404.png" alt="Screenshot 3" width="250"/>
   <img src="screenshots/Screenshot 2025-06-27 151421.png" alt="Screenshot 4" width="250"/>
+  <img src="screenshots/Screenshot 2025-06-27 152218.png" alt="Screenshot 5" width="250"/>
+  <img src="screenshots/Screenshot 2025-06-27 152242.png" alt="Screenshot 6" width="250"/>
 </p>
 
 ---
